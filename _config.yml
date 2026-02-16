@@ -1,12 +1,12 @@
 # Site settings
-title: Your Site Name
+title: Melody Gui's Blog
 description: A brief description of your site. Update this in _config.yml to reflect your content and purpose.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://yourdomain.com" # the base hostname & protocol for your site
 
 # Author
 author:
-  name: Your Name
+  name: Melody Gui
   twitter: yourtwitterhandle
 
 # SEO and meta tags

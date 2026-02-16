@@ -8,13 +8,9 @@ permalink: /about/
 
 <div style="font-size: 16px; line-height: 1.5; color: #000;">
   <p style="margin: 0 0 16px 0;">
-    Welcome to my website! This is where you can share your story, mission, and what drives you.
+    Hi! I'm Melody Gui, studying CS and Philosophy at USC.
   </p>
   <p style="margin: 0 0 16px 0;">
-    Replace this content with information about yourself, your work, your interests, or your organization's mission. 
-    Make it personal and engaging for your visitors.
-  </p>
-  <p style="margin: 0 0 16px 0;">
-    You can edit this content in the <code>about.md</code> file. Add more sections, images, or any other content that helps tell your story.
+    I like to understand how things work and why things fail. I love dogs and sushi. 🐕‍🦺🍣
   </p>
 </div>
