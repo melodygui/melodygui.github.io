@@ -14,7 +14,7 @@ permalink: /books/
   <h2 style="margin: 32px 0 16px 0; font-size: 24px; font-weight: 600;">My Bookshelf</h2>
   
   <div style="margin: 0 0 24px 0; padding: 16px; border-left: 4px solid #0070f3; background: #f8f9fa;">
-    <h3 style="margin: 0 0 8px 0; font-size: 18px; font-weight: 600;">Beyong Boundaries</h3>
+    <h3 style="margin: 0 0 8px 0; font-size: 18px; font-weight: 600;">Beyond Boundaries</h3>
     <p style="margin: 0 0 8px 0; color: #666;">by Miguel Nicolelis</p>
     <p style="margin: 0;">A brief description of why you recommend this book. What insights did it provide? How did it impact your thinking?</p>
   </div>
