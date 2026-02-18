@@ -59,9 +59,9 @@ navigation:
   - title: posts
     url: /
   - title: books
-    url: /books
+    url: /books/
   - title: about
-    url: /about
+    url: /about/
 
 # Exclude from build
 exclude:
